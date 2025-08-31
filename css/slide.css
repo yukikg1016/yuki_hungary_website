@@ -59,29 +59,32 @@
 }
 
 /*２枚目画像*/
+
 .slide2 {
 	background: url('../images/slide2.jpg') no-repeat center center / cover;	/*２枚目の背景画像の読み込み*/
+	justify-content: center;	/*テキストブロックを中央に*/
+	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*３枚目画像*/
 .slide3 {
-	background: url('../images/slide3.jpg') no-repeat center center / cover;	/*３枚目の背景画像の読み込み*/
-	justify-content: flex-end;	/*テキストブロックを右側に*/
-	text-align: right;			/*テキストを右寄せ*/
+	background: url('../images/slide3.jpg') no-repeat center center / cover;
+	justify-content: center;	/*テキストブロックを中央に*/
+	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*4枚目画像*/
 .slide4 {
-	background: url('../images/slide4.jpg') no-repeat center center / cover;	/*4枚目の背景画像の読み込み*/
-	justify-content: flex-end;	/*テキストブロックを右側に*/
-	text-align: right;			/*テキストを右寄せ*/
+	background: url('../images/slide4.jpg') no-repeat center center / cover;
+	justify-content: center;	/*テキストブロックを中央に*/
+	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*5枚目画像*/
 .slide5 {
-	background: url('../images/slide5.jpg') no-repeat center center / cover;	/*5枚目の背景画像の読み込み*/
-	justify-content: flex-end;	/*テキストブロックを右側に*/
-	text-align: right;			/*テキストを右寄せ*/
+	background: url('../images/slide5.jpg') no-repeat center center / cover;
+	justify-content: center;	/*テキストブロックを中央に*/
+	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*現在表示されているスライドのみをクリック可能にする設定（変更不要）
