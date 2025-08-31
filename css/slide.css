@@ -53,7 +53,7 @@
 
 /*１枚目画像*/
 .slide1 {
-	background: url('../images/1.heic') no-repeat center center / cover;	/*１枚目の背景画像の読み込み*/
+	background: url('../images/1.JPG') no-repeat center center / cover;	/*１枚目の背景画像の読み込み*/
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
