@@ -53,7 +53,7 @@
 
 /*１枚目画像*/
 .slide1 {
-	background: url('../images/slide1.jpg') no-repeat center center / cover;	/*１枚目の背景画像の読み込み*/
+	background: url('../images/1.jpg') no-repeat center center / cover;	/*１枚目の背景画像の読み込み*/
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
@@ -61,28 +61,28 @@
 /*２枚目画像*/
 
 .slide2 {
-	background: url('../images/slide2.jpg') no-repeat center center / cover;	/*２枚目の背景画像の読み込み*/
+	background: url('../images/2.jpg') no-repeat center center / cover;	/*２枚目の背景画像の読み込み*/
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*３枚目画像*/
 .slide3 {
-	background: url('../images/slide3.jpg') no-repeat center center / cover;
+	background: url('../images/3.jpg') no-repeat center center / cover;
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*4枚目画像*/
 .slide4 {
-	background: url('../images/slide4.jpg') no-repeat center center / cover;
+	background: url('../images/4.jpg') no-repeat center center / cover;
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
 
 /*5枚目画像*/
 .slide5 {
-	background: url('../images/slide5.jpg') no-repeat center center / cover;
+	background: url('../images/5.jpg') no-repeat center center / cover;
 	justify-content: center;	/*テキストブロックを中央に*/
 	text-align: center;			/*テキストをセンタリング*/
 }
